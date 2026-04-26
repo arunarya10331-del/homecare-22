@@ -1,0 +1,7 @@
+{
+  "name": "HomeCare ",
+  "description": "All-in-one Home Healthcare and Care Service App connecting users with qualified home nurses, physiotherapy, housekeeping, and more.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
